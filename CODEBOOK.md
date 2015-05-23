@@ -10,7 +10,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ##Description of the tidy data created by the script called run_analysis.R
 
-The tidy dataset is a 180*81 dataframe. This includes the average of the original variables for each activity (1-6) and each subject (1-30). Hence this dataset has 6*30=180 observations. 
+The tidy dataset is a 180-by-81 dataframe. This includes the average of the original variables for each activity (1-6) and each subject (1-30). Hence this dataset has 6X30=180 observations. 
 
 The first two variables are the activity names (WALKING, STANDING, etc) and the subject codes (1-30).
 
